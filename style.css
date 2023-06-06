@@ -1,0 +1,49 @@
+.contenitore-img {
+    text-align: center;
+    color: aqua;
+    width: center;
+    background-color: white border;}
+    
+
+.contenitore-testo {
+    text-align: center;
+    color: rgb(9, 100, 47);
+}
+
+body {           
+     margin: 0px;
+    border: 0px;
+    box-sizing:content-box;
+
+}
+header{
+    margin: 0px;
+}
+
+hr {
+    background-color: yellow;
+    padding: 1px;
+}
+
+main {
+    text-align: center;
+
+}
+
+.Sally_Vegas {
+    color: gray;
+}
+
+.Link {
+    text-align: left;
+    color: indianred;
+}
+a{
+    color: rgb(9, 100, 47);
+}
+.Ingredienti{
+    text-align: left;
+}
+.Hr_main{
+    background-color: rgb(141, 208, 252);
+}
