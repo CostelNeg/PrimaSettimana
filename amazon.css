@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background-color: rgb(246, 243, 243);
+}
+section {
+  background-color: rgb(27, 35, 53);
+}
+section img {
+  width: 10%;
+}
+ul {
+  list-style-image: none;
+  padding-left: 0%;
+  background-color: gray;
+  margin-top: 0%;
+}
+ul a {
+  text-decoration: none;
+}
+li {
+  display: inline;
+  margin-right: 10px;
+  color: white;
+}
+.P_Header {
+  text-align: center;
+  background-color: rgb(255, 98, 30);
+  margin: 1em;
+  color: white;
+}
+main {
+  margin: 1em;
+  background-color: white;
+}
+.Gifter {
+  background-image: url(../assets/bg-img.png);
+  background-size: 100%;
+  margin: 1em;
+  text-align: center;
+  color: white;
+}
+main a {
+  text-decoration: none;
+  color: rgb(42, 142, 151);
+}
+main p {
+  display: inline;
+  margin-right: 10px;
+  margin-left: 2em;
+}
+main img {
+  width: 22%;
+  margin-left: 2em;
+  border-radius: 15px;
+}
+.ImgCursore {
+  margin: 1em;
+}
+.ImgSottoMain {
+  width: 100%;
+}
+.Description {
+  text-align: center;
+  margin-top: 0;
+}
+.Description_A {
+  font-weight: 500;
+  text-decoration: none;
+  color: rgb(0, 234, 255);
+  margin-left: 1em;
+}
+.Back_Top{
+  font-weight: 600;
+  text-align: center;
+  color: white;
+  padding: 0.5em;
+  background-color: gray;
+}
+footer img{
+align-items: center;
+ 
+}
+.Footer a{
+text-align: center;
+}
+.Footer{
+  padding: 2em;
+  text-align: center;
+}
